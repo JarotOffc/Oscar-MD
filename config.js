@@ -1,3 +1,6 @@
+//ISI APIKEY LU BIAR KEBACA
+//FITUR WORK ALL
+
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk' 
 import { fileURLToPath } from 'url' 
