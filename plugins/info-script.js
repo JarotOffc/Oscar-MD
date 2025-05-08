@@ -16,7 +16,7 @@ import moment from 'moment-timezone'
 import os from 'os'
 let handler = async (m, { conn, text, usedPrefix, command }) => {
     
-    let response = await fetch('https://api.github.com/repos/JarotOffc/oscar-md-versi2');
+    let response = await fetch('https://api.github.com/repos/JarotOffc/Oscar-MD');
     let repoData = await response.json();
 
     let repoMessage = '乂  *B O T - S C R I P T*\n\n';
