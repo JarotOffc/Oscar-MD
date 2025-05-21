@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@whiskeysockets/baileys": "github:GataNina-Li/Baileys",
+        "@whiskeysockets/baileys": "github:Jarotr/oscar-baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^3.4.0",
         "@bochilteam/scraper": "4.0.22-alpha.0",
