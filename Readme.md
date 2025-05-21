@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://files.catbox.moe/qwp5qd.jpg" alt="Img" width="400" height="400"/>
+<img src="https://files.catbox.moe/qwp5qd.jpg" alt="Img" width="300" height="300"/>
 </p>
  <p align="center">
 <a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
