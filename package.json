@@ -1,6 +1,6 @@
 { 
     "name": "Oscar-bot",
-    "version": "6.1.1",
+    "version": "7.1.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
     "type": "module",
