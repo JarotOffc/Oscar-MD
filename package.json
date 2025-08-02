@@ -1,6 +1,6 @@
 { 
     "name": "Oscar-bot",
-    "version": "7.1.1",
+    "version": "8.1.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
     "type": "module",
@@ -39,7 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@whiskeysockets/baileys": "github:JarotOffc/blayes",
+        "@whiskeysockets/baileys": "github:JarotOffc/Oscar-bail",
         "@adiwajshing/keyed-db": "^0.2.4",
         "awesome-phonenumber": "^3.4.0",
         "@bochilteam/scraper": "4.0.22-alpha.0",
